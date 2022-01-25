@@ -1,0 +1,156 @@
+#navbarNav{
+   justify-content: end;
+   padding: 0px 152px;
+}
+.navbar-light .navbar-brand {
+    color: rgba(0,0,0,.9);
+    color: #fff;
+    font-size: 35px;
+    font-family: 'Montserrat',sans-serif;
+    margin-top: -5px;
+}
+.container-fluid{
+    background-color: #a3aee5;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0;
+    padding-bottom:0;
+}
+.mu-service-header{
+    
+    text-align: center;
+    
+}
+.s1{
+    color: #4568DC;
+}
+.mu-service-header{
+    padding: 40px;
+}
+.mu-service-icon-box {
+    font-size: 35px;
+    margin-bottom: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    color: #4568DC;
+}
+#mu-contact {
+    background-color: #f8f8f8;
+    display: inline;
+    float: left;
+    width: 100%;
+}
+.mu-heading-title{
+    text-align: center;
+}
+.p1{
+    text-align: center;
+}
+.span1{
+    color: #4568DC;
+}
+.mu-send-msg-btn {
+    border-radius: 4px;
+    border: 1px solid #888;
+    background-color: transparent;
+    font-size: 13px;
+}
+.mu-contact-form .form-group input {
+    background: transparent;
+    color: #333;
+    font-size: 15px;
+    border: 1px solid #333;
+    border-radius: 0;
+    height: 45px;
+    margin-bottom: 24px;
+}
+#message{
+    
+        display: block;
+        width: 100%;
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        border: 1px solid #333;
+}
+.mu-send-msg-btn{
+    width: 140px;
+    height: 47px;
+    border: 1px solid #333;
+}
+.mu-contact-right{
+    font-size: 13px;
+    margin-top: -6px;
+}
+.fab{
+    font-size: 30px;
+    margin-left: 15px;
+    margin-top: -5px;
+    color: black;
+}
+.fab:hover{
+    color: #4568DC;
+}
+.carousel-item::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    opacity:0.92 ;
+    background-color: rgb(163, 174, 229);
+}
+
+.navbar-brand{
+    padding: 1px 132px;
+}
+.salam147{
+    width: 30px;
+    height: 50px;
+    border-radius: 50%;
+}
+.carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 30px;
+    height: 25px;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    transition: opacity .6s ease;
+}
+.d-md-block{
+    top: 25%;
+}
+.mu-footer-area{
+    text-align: center;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
+  .mu-contact{padding: 100px;}
+  .mu-service{padding: 100px;}
